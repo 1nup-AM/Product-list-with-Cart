@@ -2,7 +2,7 @@
   "name": "02-product-cart",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/1nup-AM/Product-list-with-Cart",
+  "homepage": "https://1nup-am.github.io/Product-list-with-Cart/",
   "type": "module",
   "scripts": {
     "dev": "vite",
