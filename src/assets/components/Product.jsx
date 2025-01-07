@@ -58,7 +58,7 @@ function Product({ image, name, category, price, onAddToCart, resetCounter }) {
               onClick={handleAddToCart}
             >
               <img
-                src="./src/assets/images/icon-add-to-cart.svg"
+                src="./images/icon-add-to-cart.svg"
                 alt="cart-image"
               />
               <p className="font-semibold">Add to Cart</p>
@@ -70,7 +70,7 @@ function Product({ image, name, category, price, onAddToCart, resetCounter }) {
                 onClick={handleDecrease}
               >
                 <img
-                  src="./src/assets/images/icon-decrement-quantity.svg"
+                  src="./images/icon-decrement-quantity.svg"
                   alt="decrement svg"
                 />
               </button>
@@ -80,7 +80,7 @@ function Product({ image, name, category, price, onAddToCart, resetCounter }) {
                 onClick={handleIncrease}
               >
                 <img
-                  src="./src/assets/images/icon-increment-quantity.svg"
+                  src="./images/icon-increment-quantity.svg"
                   alt="increment svg"
                 />
               </button>

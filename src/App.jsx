@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Product from "./assets/components/Product.jsx";
-import data from "./assets/data.json";
+import data from "/public/data.json";
 import Cart from "./assets/components/Cart.jsx";
 import Order from "./assets/components/Order.jsx";
 

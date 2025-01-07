@@ -15,7 +15,7 @@ function Cart({ cartItems, handleRemoveFromCart, onConfirmOrder }) {
           // Empty Cart Layout
           <div className="flex justify-center items-center flex-col">
             <img
-              src="./src/assets/images/illustration-empty-cart.svg"
+              src="./images/illustration-empty-cart.svg"
               alt="empty cart"
             />
             <p className="text-gray-600">Your added items will appear here</p>
@@ -39,7 +39,7 @@ function Cart({ cartItems, handleRemoveFromCart, onConfirmOrder }) {
                 <button onClick={() => handleRemoveFromCart(item)}>
                   <div className="size-5 border flex items-center justify-center border-gray-300 rounded-xl">
                     <img
-                      src="./src/assets/images/icon-remove-item.svg"
+                      src="./images/icon-remove-item.svg"
                       alt={`${item.name}`}
                     />
                   </div>
@@ -54,7 +54,7 @@ function Cart({ cartItems, handleRemoveFromCart, onConfirmOrder }) {
               </div>
               <div className="flex gap-2 justify-center items-center self-center bg-rose-50 h-12 rounded-lg">
                 <img
-                  src="./src/assets/images/icon-carbon-neutral.svg"
+                  src="./images/icon-carbon-neutral.svg"
                   alt="Carbon-neutral svg"
                 />
                 <p>

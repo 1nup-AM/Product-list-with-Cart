@@ -7,7 +7,7 @@ function Order({ isVisible, items, total, onClose }) {
     <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50">
       {/* Popup Content */}
       <div className="bg-white p-6 rounded-xl w-full max-w-prose shadow-lg text-center gap-6">
-        <img src="./src/assets/images/icon-order-confirmed.svg" alt="Order svg" />
+        <img src="./images/icon-order-confirmed.svg" alt="Order svg" />
         <h2 className="text-3xl font-semibold mb-4 text-left">Order Confirmed!</h2>
 
         <p className="text-gray-600 mb-6 text-left">
