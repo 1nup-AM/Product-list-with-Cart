@@ -61,7 +61,7 @@ function Product({ image, name, category, price, onAddToCart, resetCounter }) {
                 src="./images/icon-add-to-cart.svg"
                 alt="cart-image"
               />
-              <div className="font-semibold">Add to Cart</div>
+              <span className="font-semibold">Add to Cart</span>
             </button>
           ) : (
             <div className="flex justify-around items-center rounded-full w-full p-3 gap-2 max-w-40 bg-orange-700">
