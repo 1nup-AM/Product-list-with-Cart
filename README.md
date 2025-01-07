@@ -12,8 +12,8 @@ This is a solution to the [Product list with cart challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:  https://github.com/1nup-AM/Product-list-with-Cart
+- Live Site URL: https://1nup-am.github.io/Product-list-with-Cart/
 
 ### Built with
 
@@ -36,5 +36,4 @@ Will be focusing more on understanding the managing the state of the app using u
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@1nup-AM](https://www.frontendmentor.io/profile/1nup-AM)
